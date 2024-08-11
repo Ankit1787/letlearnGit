@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family:  "Poppins", sans-serif;
+  font-weight: 600;
+  
+}
+
+.react-time-picker__wrapper {
+  border: none !important;
+ 
+}
+.react-time-picker__inputGroup__input {
+ border: none;
+ outline: none;
+}
